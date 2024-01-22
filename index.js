@@ -45,5 +45,6 @@ module.exports = {
 		consent,
 		setTag,
 		upgrade,
+		addEvent,
 	},
 };
