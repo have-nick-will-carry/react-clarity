@@ -1,4 +1,4 @@
-# react-microsoft-clarity
+# GlassFM - React Microsoft Clarity
 
 A lightweight component to make adding Microsoft Clarity to your project easily.
 
