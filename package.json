@@ -1,0 +1,13 @@
+{
+	"name": "react-clarity",
+	"version": "1.0.0",
+	"description": "Implement Microsoft-Clarity into react project",
+	"main": "index.js",
+	"author": "anthony-healthstreet",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/GlassFM/react-clarity/issues"
+	},
+	"homepage": "https://github.com/GlassFM/react-clarity#readme",
+	"types": "./index.d.ts"
+}
