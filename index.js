@@ -33,6 +33,10 @@ function upgrade(reason) {
 	clarity("upgrade", reason);
 }
 
+function addEvent(eventName) {
+	clarity("event", eventName);
+}
+
 module.exports = {
 	clarity: {
 		init,

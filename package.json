@@ -1,6 +1,6 @@
 {
 	"name": "@glassfm/react-clarity",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"description": "Implement Microsoft-Clarity into react project",
 	"main": "index.js",
 	"author": "anthony-healthstreet",
