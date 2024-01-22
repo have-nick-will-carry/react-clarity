@@ -1,6 +1,6 @@
 # react-microsoft-clarity
 
-A lightweight component to make adding Microsoft Clarity to your project easy
+A lightweight component to make adding Microsoft Clarity to your project easily.
 
 # Install
 
