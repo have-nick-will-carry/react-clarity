@@ -1,17 +1,17 @@
 # GlassFM - React Microsoft Clarity
 
-A lightweight component to make adding Microsoft Clarity to your project easily.
+A lightweight component to make adding Microsoft Clarity to your project easy.
 
 # Install
 
 ```bash
-npm install react-microsoft-clarity --save
+npm install @glassfm/react-clarity --save
 ```
 
 # Usage
 
 ```typescript
-import { clarity } from "react-microsoft-clarity";
+import { clarity } from "@glassfm/react-clarity";
 
 // Start seeing data on the Clarity dashboard with your project ID
 clarity.init(id);
